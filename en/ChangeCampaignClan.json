@@ -1,0 +1,14 @@
+{
+  "name" : "Change Campain Clan",
+  "mod-description" : "Change the played diggles clan in the campaign.",
+  
+  "variable-CLAN-name" : "Clan",
+  "variable-CLAN-description" : "Clan that you want to play in campaign.",
+  "variable-CLAN-option0" : "Diggles",
+  "variable-CLAN-option1" : "Peacer",
+  "variable-CLAN-option2" : "Knockers",
+  "variable-CLAN-option3" : "Brains",
+  "variable-CLAN-option4" : "Vampyres",
+  "variable-SWAP_CLAN-name" : "Swap clan",
+  "variable-SWAP_CLAN-description" : "The chosen clan becomes the Diggles clan."
+}

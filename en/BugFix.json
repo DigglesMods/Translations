@@ -1,0 +1,4 @@
+{
+  "name" : "BugFix",
+  "mod-description" : "Fix some bugs (GnomeAgeBug, syntax errors, wrong calculation transport experience)."
+}

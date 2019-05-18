@@ -1,0 +1,9 @@
+{
+  "name" : "BetterStorage",
+  "mod-description" : "More storage room; items seperately selectable; store weapons, tools and panniers",
+  
+  "variable-ITEMS_PER_SLOT-name" : "Items per slot",
+  "variable-ITEMS_PER_SLOT-description" : "Count of items per storage slot",
+  "variable-ADD_STORE_ROW-name" : "Add store row",
+  "variable-ADD_STORE_ROW-description" : "Add upper store row"
+}
