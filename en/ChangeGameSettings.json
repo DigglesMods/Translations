@@ -1,0 +1,13 @@
+{
+  "name" : "Game Settings",
+  "mod-description" : "Change some game settings like the age of your Diggles or the population maximum.",
+  
+  "variable-MAX_AGE-name" : "Max age",
+  "variable-MAX_AGE-description" : "Max age of Diggles",
+  "variable-POP_SOLL-name" : "Max population",
+  "variable-POP_SOLL-description" : "Max population of Diggles",
+  "variable-MIN_EXP-name" : "Min experience",
+  "variable-MIN_EXP-description" : "Start experience maximum of Diggles (1 means 100). Must be smaller than MAX_EXP!",
+  "variable-MAX_EXP-name" : "Max experience",
+  "variable-MAX_EXP-description" : "Max experience of Diggles (2 means 200). Must be greater than MIN_EXP!"
+}

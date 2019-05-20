@@ -1,0 +1,9 @@
+{
+  "name" : "Dropping Resources",
+  "mod-description" : "Change dropping chance and drop better resources in dependence to your civilization level while digging.",
+  
+  "variable-CIV_DROPS-name" : "Civilisation drops",
+  "variable-CIV_DROPS-description" : "Drop better items with a better civilization level while digging.",
+  "variable-DROP_CHANCE-name" : "Drop chance",
+  "variable-DROP_CHANCE-description" : "Drop chance while digging (%-percent)."
+}

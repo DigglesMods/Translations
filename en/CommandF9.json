@@ -1,0 +1,17 @@
+{
+  "name" : "Command F9",
+  "mod-description" : "This Mod change the command F9 (drop all items)",
+  
+  "variable-TOOLS-name" : "Tools",
+  "variable-TOOLS-description" : "Do not drop tools.",
+  "variable-WEAPONS-name" : "Weapons",
+  "variable-WEAPONS-description" : "Do not drop weapons and shields.",
+  "variable-MOVEMENT-name" : "Movement",
+  "variable-MOVEMENT-description" : "Do not drop Riding Hamster and Hoverboard.",
+  "variable-TRANSPORT-name" : "Transport",
+  "variable-TRANSPORT-description" : "Do not drop (Big) Pannier and Barrow.",
+  "variable-MULTIPLE_ITEMS-name" : "Multiple items",
+  "variable-MULTIPLE_ITEMS-description" : "Drop all items of chosen types (Tools, Weapons, Movement, Transport) except one.",
+  "variable-LOWER_ITEMS-name" : "Lower items",
+  "variable-LOWER_ITEMS-description" : "Drop lower or unusable items of chosen types (Weapons, Movement, Transport)."
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "Rare Resources",
+  "mod-description" : "You can craft resources (i. e. 9 stones > 1 iron ore).",
+  
+  "iron-ore-in-game-name" : "Iron Ore",
+  "iron-ore-in-game-description" : "With hard work and good melting skills you can produce valuable iron ore from stones.",
+  "gold-ore-in-game-name" : "Gold Ore",
+  "gold-ore-in-game-description" : "With excellent melting skills and belief in Odin you can gain exquisite gold ore from iron ore.",
+  "coal-in-game-name" : "Coal",
+  "coal-in-game-description" : "With massive fungal grubbing, a strong hammer and an even stronger Dwarf you can beat fungal stems to coal.",
+  "crystal-ore-in-game-name" : "Crystal Ore",
+  "crystal-ore-in-game-description" : "With a massive hammer and the Hand of Odin you can beat coal to exquisite Crystal Ore."
+}
